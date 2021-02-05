@@ -12,12 +12,12 @@ body {
 
 
 /* MAIN CONTENT */
-.col {
-  padding: 10px;
-}
-
 .row {
   color: white;
+}
+
+.col {
+  padding: 10px;
 }
 
 .menu-item {
